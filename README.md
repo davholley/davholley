@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davholley
-- 🌱 I’m currently learning back-end develpoment taught by Meta staff on Coursera
+- 🌱 I’m currently enrolled in a Java bootcamp at Tech Elevator 
 - 💞️ I’m looking to collaborate on impactful projects that change the way we live our daily lives
 - 📫 How to reach me @ davinholley@gmail.com 
 
